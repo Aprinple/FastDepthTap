@@ -1,0 +1,16 @@
+{
+  "FileVersion": 3,
+  "Version": 6,
+  "VersionName": "1.4",
+  "FriendlyName": "Fast Depth Tap (VIS + Follow)",
+  "Description": "On-demand capture -> CPU readback -> .npy/.pfm + optional PNG visualization, with cap=/rt=/follow= and pose logging. UE4.27.",
+  "Category": "Rendering",
+  "Modules": [
+    {
+      "Name": "FastDepthTap",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "EnabledByDefault": true
+}
