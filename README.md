@@ -292,4 +292,5 @@ A lightweight Unreal Engine 4.27 plugin for AirSim-based projects, providing UDP
 
 ## License
 
-Please add your license information here.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
